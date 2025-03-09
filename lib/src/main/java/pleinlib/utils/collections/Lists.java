@@ -1,4 +1,4 @@
-package pleinlib.utils;
+package pleinlib.utils.collections;
 
 import java.util.ArrayList;
 import java.util.Collections;

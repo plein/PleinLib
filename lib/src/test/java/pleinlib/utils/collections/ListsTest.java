@@ -1,4 +1,4 @@
-package pleinlib.utils;
+package pleinlib.utils.collections;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
